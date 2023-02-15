@@ -1,2 +1,2 @@
 # git_java_learning_repository
-Java仓库
+java学习仓库
